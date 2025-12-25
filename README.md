@@ -31,9 +31,12 @@ It understands invoice structure and converts invoices into **business-ready Exc
 
 ## 📂 Project Structure
 
-├── main.py # Streamlit application
-├── requirements.txt # Python dependencies
-├── .env # Environment variables
+├── main.py 
+
+├── requirements.txt 
+
+├── .env 
+
 └── README.md
 
 ---
